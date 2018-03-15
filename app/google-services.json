@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "260861508497",
+    "firebase_url": "https://sharingphoto-cefe4.firebaseio.com",
+    "project_id": "sharingphoto-cefe4",
+    "storage_bucket": "sharingphoto-cefe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260861508497:android:acdf84dfd6c3ce0f",
+        "android_client_info": {
+          "package_name": "com.example.mart.sharingphoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260861508497-gm3c6ai5llpqvan0o77k7ka1aii34u4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mart.sharingphoto",
+            "certificate_hash": "561dc593a3806dde1e750ecb8dbe4ef69a49a960"
+          }
+        },
+        {
+          "client_id": "260861508497-aeqiciietrestnmiocuodsega5nbp8nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLh9d8lAon0DLbWshanvI_O5afTyIVUQ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260861508497-aeqiciietrestnmiocuodsega5nbp8nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
